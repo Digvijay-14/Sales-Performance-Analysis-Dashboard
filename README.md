@@ -1,6 +1,6 @@
 # 📊 Sales Performance Analysis Dashboard using Power BI
 
-![Dashboard Preview](Dashboard_Overview.png)
+![Dashboard Preview] (Dashboard (2).png)
 
 ## 📘 Project Overview  
 This Power BI dashboard provides a **comprehensive analysis of sales performance** using interactive visualizations and key performance indicators (KPIs).  
